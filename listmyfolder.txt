@@ -1,0 +1,18 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 9271-5E5C
+
+ Directory of D:\djangogirls
+
+01/05/2019  01:14 PM    <DIR>          .
+01/05/2019  01:14 PM    <DIR>          ..
+12/29/2018  07:01 PM                40 API_token.txt
+12/29/2018  07:42 PM    <DIR>          blog
+12/29/2018  08:00 PM           139,264 db.sqlite3
+01/05/2019  01:10 PM                62 gitignore.txt
+01/05/2019  01:14 PM                 0 listmyfolder.txt
+12/29/2018  07:17 PM               553 manage.py
+12/29/2018  07:24 PM    <DIR>          mysite
+12/29/2018  06:52 PM    <DIR>          myvenv
+12/29/2018  06:47 PM                13 requirements.txt
+               6 File(s)        139,932 bytes
+               5 Dir(s)  117,793,869,824 bytes free
