@@ -8,4 +8,12 @@ password: !Korets4
 
 how to run server localhost
 
-command line:$ python manage.py runserver
+local command line:$ python manage.py runserver
+
+
+how to open interactive console: 
+
+local command line:$ python manage.py shell
+exit()
+
+
